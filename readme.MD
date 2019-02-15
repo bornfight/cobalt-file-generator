@@ -1,3 +1,5 @@
+Python script for generating files with different extensions. 
+
 Requirements:
 - Python >= 3.6.5
 - pip3 (package manager for python)
