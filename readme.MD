@@ -6,7 +6,7 @@ Requirements:
 
 Steps:
 1. In terminal navigate to the directory where the main python script is located.
-2. `pip3 install python-docx`
+2. `pip3 install -r requirements.txt`
 3. `python3 cobaltFileGenerator.py`
 4. Test files will be generated in the directory called 'generated-test-files'.
 
